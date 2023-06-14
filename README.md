@@ -1,7 +1,6 @@
-# final-bootcamp-2
-this is the final project for tuwaiq academy 
-for front-end development 
-# Group members
-1-Saad fahad alotaibi
-2-Naif AL-motairi
-3- salman al 89imi
+# المشروع النهائي
+المشروع النهائي لمعسكر تصميم الويب html/css
+#اعضاء الفريق
+1-سعد فهد العتيبي
+2-نايف المطيري
+3-سلمان الصغير
